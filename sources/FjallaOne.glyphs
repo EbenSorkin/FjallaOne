@@ -336,7 +336,7 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 2096;
+value = 2066;
 },
 {
 name = typoDescender;
@@ -348,7 +348,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 2096;
+value = 2066;
 },
 {
 name = hheaDescender;
@@ -360,7 +360,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2196;
+value = 2702;
 },
 {
 name = winDescent;
@@ -390,7 +390,7 @@ id = "043639A7-E62C-4A4F-99F5-E7AE759848D8";
 metricValues = (
 {
 over = 16;
-pos = 2096;
+pos = 2066;
 },
 {
 over = 16;
@@ -22296,11 +22296,11 @@ R = NoKerning;
 {
 color = 3;
 glyphname = nbspace;
-lastChange = "2023-03-01 05:13:04 +0000";
+lastChange = "2023-03-01 06:02:29 +0000";
 layers = (
 {
 layerId = "043639A7-E62C-4A4F-99F5-E7AE759848D8";
-width = 0;
+width = 442;
 }
 );
 unicode = 160;
