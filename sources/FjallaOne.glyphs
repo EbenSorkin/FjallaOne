@@ -20,12 +20,6 @@ M,
 "ǥ",
 "ʒ"
 );
-axes = (
-{
-name = Weight;
-tag = wght;
-}
-);
 classes = (
 {
 automatic = 1;
@@ -366,9 +360,6 @@ tag = case;
 );
 fontMaster = (
 {
-axesValues = (
-100
-);
 customParameters = (
 {
 name = typoAscender;
@@ -29993,24 +29984,10 @@ unicode = 712;
 );
 instances = (
 {
-axesValues = (
-100
-);
 instanceInterpolations = {
 "043639A7-E62C-4A4F-99F5-E7AE759848D8" = 1;
 };
 name = Regular;
-properties = (
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = FjallaOne;
-}
-);
-}
-);
 }
 );
 kerningLTR = {
