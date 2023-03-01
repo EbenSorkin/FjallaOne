@@ -2,7 +2,7 @@
 
 Fontbakery version: 0.8.10
 
-<details><summary><b>[16] FjallaOne-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+<details><summary><b>[13] FjallaOne-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -13,19 +13,6 @@ with Reserved Font Name "Fjalla" and Fjalla "One"" [code: bad-notice-format]
 
 
 * 🔥 **FAIL** Name entry COPYRIGHT_NOTICE on platform WINDOWS contains a line-break. [code: line-break]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
-
-
-* 🔥 **FAIL** FjallaOne Regular: OS/2 sTypoAscender is 2096 when it should be 2066 [code: bad-typo-ascender]
-* 🔥 **FAIL** FjallaOne Regular: hhea Ascender is 2096 when it should be 2066 [code: bad-hhea-ascender]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 2702, but got 2196 instead [code: ascent]
-</div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
-
-
-* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 442 font units wide, non-breaking space named (uni00A0) is 0 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
@@ -351,11 +338,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* threequarters (U+00BE): X=1493.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* Atilde (U+00C3): X=352.0,Y=2095.0 (should be at ascender 2096?)
-
-	* Ntilde (U+00D1): X=430.0,Y=2095.0 (should be at ascender 2096?)
-
-	* Otilde (U+00D5): X=410.0,Y=2095.0 (should be at ascender 2096?)
+	* Aring (U+00C5): X=479.0,Y=2065.0 (should be at ascender 2066?)
 
 	* atilde (U+00E3): X=544.5,Y=1708.5 (should be at cap-height 1708?)
 
@@ -375,17 +358,17 @@ The following glyphs do not have the recommended number of contours:
 
 	* gdotaccent (U+0121): X=648.0,Y=1706.0 (should be at cap-height 1708?)
 
-	* Itilde (U+0128): X=146.0,Y=2095.0 (should be at ascender 2096?)
-
 	* itilde (U+0129): X=343.5,Y=1708.5 (should be at cap-height 1708?)
 
 	* iogonek (U+012F): X=99.0,Y=1706.0 (should be at cap-height 1708?)
 
 	* iogonek (U+012F): X=412.0,Y=1706.0 (should be at cap-height 1708?)
 
-	* Utilde (U+0168): X=421.0,Y=2095.0 (should be at ascender 2096?)
-
 	* utilde (U+0169): X=593.5,Y=1708.5 (should be at cap-height 1708?)
+
+	* Uring (U+016E): X=229.0,Y=2065.0 (should be at ascender 2066?)
+
+	* Uring (U+016E): X=867.0,Y=2065.0 (should be at ascender 2066?)
 
 	* zdotaccent (U+017C): X=187.0,Y=1706.0 (should be at cap-height 1708?)
 
@@ -394,10 +377,6 @@ The following glyphs do not have the recommended number of contours:
 	* uni0268 (U+0268): X=152.0,Y=1706.0 (should be at cap-height 1708?)
 
 	* uni0268 (U+0268): X=465.0,Y=1706.0 (should be at cap-height 1708?)
-
-	* uni02B9 (U+02B9): X=200.0,Y=2094.0 (should be at ascender 2096?)
-
-	* uni02B9 (U+02B9): X=473.0,Y=2094.0 (should be at ascender 2096?)
 
 	* uni02BE (U+02BE): X=651.0,Y=1707.0 (should be at cap-height 1708?)
 
@@ -419,27 +398,29 @@ The following glyphs do not have the recommended number of contours:
 
 	* uni1E45 (U+1E45): X=662.0,Y=1706.0 (should be at cap-height 1708?)
 
-	* uni1E4C (U+1E4C): X=410.0,Y=2095.0 (should be at ascender 2096?)
-
 	* uni1E4D (U+1E4D): X=561.5,Y=1708.5 (should be at cap-height 1708?)
 
 	* uni1E8F (U+1E8F): X=287.0,Y=1706.0 (should be at cap-height 1708?)
 
 	* uni1E8F (U+1E8F): X=600.0,Y=1706.0 (should be at cap-height 1708?)
 
-	* uni1EBC (U+1EBC): X=333.0,Y=2095.0 (should be at ascender 2096?)
+	* uni1EA9 (U+1EA9): X=628.0,Y=2068.0 (should be at ascender 2066?)
+
+	* uni1EAB (U+1EAB): X=266.0,Y=2065.0 (should be at ascender 2066?)
 
 	* uni1EBD (U+1EBD): X=544.5,Y=1708.5 (should be at cap-height 1708?)
 
-	* uni1EE0 (U+1EE0): X=410.0,Y=2095.0 (should be at ascender 2096?)
+	* uni1EC3 (U+1EC3): X=628.0,Y=2068.0 (should be at ascender 2066?)
+
+	* uni1EC5 (U+1EC5): X=266.0,Y=2065.0 (should be at ascender 2066?)
+
+	* uni1ED5 (U+1ED5): X=645.0,Y=2068.0 (should be at ascender 2066?)
+
+	* uni1ED7 (U+1ED7): X=283.0,Y=2065.0 (should be at ascender 2066?)
 
 	* uni1EE1 (U+1EE1): X=561.5,Y=1708.5 (should be at cap-height 1708?)
 
-	* uni1EEE (U+1EEE): X=421.0,Y=2095.0 (should be at ascender 2096?)
-
 	* uni1EEF (U+1EEF): X=593.5,Y=1708.5 (should be at cap-height 1708?)
-
-	* uni1EF8 (U+1EF8): X=348.0,Y=2095.0 (should be at ascender 2096?)
 
 	* uni1EF9 (U+1EF9): X=531.5,Y=1708.5 (should be at cap-height 1708?)
 
@@ -537,8 +518,8 @@ The following glyphs do not have the recommended number of contours:
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 5 | 11 | 109 | 7 | 95 | 0 |
-| 0% | 2% | 5% | 48% | 3% | 42% | 0% |
+| 0 | 2 | 11 | 109 | 7 | 98 | 0 |
+| 0% | 1% | 5% | 48% | 3% | 43% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
