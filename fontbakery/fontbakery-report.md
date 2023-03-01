@@ -7,7 +7,7 @@ Fontbakery version: 0.8.10
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright (c) 2012-2017, Sorkin Type Co (www.sorkintype.com)
+"Copyright 2023 The FjallaOne Project Authors https://github.com/EbenSorkin/FjallaOne
 with Reserved Font Name "Fjalla" and Fjalla "One"" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Name table entries should not contain line-breaks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/line_breaks">com.google.fonts/check/name/line_breaks</a>)</summary><div>
 
