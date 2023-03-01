@@ -59953,7 +59953,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2012-2017, Sorkin Type Co (www.sorkintype.com)
+value = "Copyright 2023 The FjallaOne Project Authors https://github.com/EbenSorkin/FjallaOne
 with Reserved Font Name \"Fjalla\" and Fjalla \"One\"";
 }
 );
