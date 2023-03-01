@@ -35,7 +35,7 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 ----
 
 
-# My Font
+# FjallaOne
 
 [![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
 [![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
@@ -49,15 +49,13 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
-
-Don't hesitate to create images!
+Fjalla is a medium contrast display sans serif. Fjalla has been carefully adjusted to the restrictions of the screen. Despite having display characteristics Fjalla can be used in a wide range of sizes.
 
 ![Sample Image](documentation/image1.png)
 
 ## About
 
-Description of you and/or organisation goes here.
+Sorkin Type makes retail and Libre fonts.
 
 ## Building
 
@@ -77,9 +75,8 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 Changelog example:
 
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+**28 Feb 2023. Version 2.13**
+- SIGNIFICANT New langauge support numbers and symbols added.
 
 ## License
 
