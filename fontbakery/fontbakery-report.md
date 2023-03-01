@@ -313,7 +313,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* ampersand (U+0026): X=857.0,Y=1.0 (should be at baseline 0?)
 
-	* zero (U+0030): X=400.5,Y=1707.0 (should be at cap-height 1708?)
+	* zero (U+0030): X=404.5,Y=1707.0 (should be at cap-height 1708?)
 
 	* one (U+0031): X=604.0,Y=1706.0 (should be at cap-height 1708?)
 
@@ -339,23 +339,23 @@ The following glyphs do not have the recommended number of contours:
 
 	* copyright (U+00A9): X=878.5,Y=-1.0 (should be at baseline 0?)
 
-	* onequarter (U+00BC): X=1199.0,Y=1709.0 (should be at cap-height 1708?)
+	* onequarter (U+00BC): X=1167.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* onequarter (U+00BC): X=1381.0,Y=1709.0 (should be at cap-height 1708?)
+	* onequarter (U+00BC): X=1349.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* onehalf (U+00BD): X=1199.0,Y=1709.0 (should be at cap-height 1708?)
+	* onehalf (U+00BD): X=1167.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* onehalf (U+00BD): X=1381.0,Y=1709.0 (should be at cap-height 1708?)
+	* onehalf (U+00BD): X=1349.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* threequarters (U+00BE): X=1385.0,Y=1709.0 (should be at cap-height 1708?)
+	* threequarters (U+00BE): X=1311.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* threequarters (U+00BE): X=1567.0,Y=1709.0 (should be at cap-height 1708?)
+	* threequarters (U+00BE): X=1493.0,Y=1709.0 (should be at cap-height 1708?)
 
 	* Atilde (U+00C3): X=352.0,Y=2095.0 (should be at ascender 2096?)
 
 	* Ntilde (U+00D1): X=430.0,Y=2095.0 (should be at ascender 2096?)
 
-	* Otilde (U+00D5): X=406.0,Y=2095.0 (should be at ascender 2096?)
+	* Otilde (U+00D5): X=410.0,Y=2095.0 (should be at ascender 2096?)
 
 	* atilde (U+00E3): X=544.5,Y=1708.5 (should be at cap-height 1708?)
 
@@ -419,7 +419,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* uni1E45 (U+1E45): X=662.0,Y=1706.0 (should be at cap-height 1708?)
 
-	* uni1E4C (U+1E4C): X=406.0,Y=2095.0 (should be at ascender 2096?)
+	* uni1E4C (U+1E4C): X=410.0,Y=2095.0 (should be at ascender 2096?)
 
 	* uni1E4D (U+1E4D): X=561.5,Y=1708.5 (should be at cap-height 1708?)
 
@@ -431,7 +431,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* uni1EBD (U+1EBD): X=544.5,Y=1708.5 (should be at cap-height 1708?)
 
-	* uni1EE0 (U+1EE0): X=406.0,Y=2095.0 (should be at ascender 2096?)
+	* uni1EE0 (U+1EE0): X=410.0,Y=2095.0 (should be at ascender 2096?)
 
 	* uni1EE1 (U+1EE1): X=561.5,Y=1708.5 (should be at cap-height 1708?)
 
@@ -459,33 +459,33 @@ The following glyphs do not have the recommended number of contours:
 
 	* fraction (U+2044): X=542.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* oneeighth (U+215B): X=1199.0,Y=1709.0 (should be at cap-height 1708?)
+	* oneeighth (U+215B): X=1167.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* oneeighth (U+215B): X=1381.0,Y=1709.0 (should be at cap-height 1708?)
+	* oneeighth (U+215B): X=1349.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* oneeighth (U+215B): X=1936.5,Y=-2.0 (should be at baseline 0?)
+	* oneeighth (U+215B): X=1904.5,Y=-2.0 (should be at baseline 0?)
 
-	* threeeighths (U+215C): X=1385.0,Y=1709.0 (should be at cap-height 1708?)
+	* threeeighths (U+215C): X=1311.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* threeeighths (U+215C): X=1567.0,Y=1709.0 (should be at cap-height 1708?)
+	* threeeighths (U+215C): X=1493.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* threeeighths (U+215C): X=2122.5,Y=-2.0 (should be at baseline 0?)
+	* threeeighths (U+215C): X=2048.5,Y=-2.0 (should be at baseline 0?)
 
 	* fiveeighths (U+215D): X=192.0,Y=1707.0 (should be at cap-height 1708?)
 
 	* fiveeighths (U+215D): X=853.0,Y=1707.0 (should be at cap-height 1708?)
 
-	* fiveeighths (U+215D): X=1380.0,Y=1709.0 (should be at cap-height 1708?)
+	* fiveeighths (U+215D): X=1308.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* fiveeighths (U+215D): X=1562.0,Y=1709.0 (should be at cap-height 1708?)
+	* fiveeighths (U+215D): X=1490.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* fiveeighths (U+215D): X=2117.5,Y=-2.0 (should be at baseline 0?)
+	* fiveeighths (U+215D): X=2045.5,Y=-2.0 (should be at baseline 0?)
 
-	* seveneighths (U+215E): X=1198.0,Y=1709.0 (should be at cap-height 1708?)
+	* seveneighths (U+215E): X=1179.0,Y=1709.0 (should be at cap-height 1708?)
 
-	* seveneighths (U+215E): X=1380.0,Y=1709.0 (should be at cap-height 1708?) 
+	* seveneighths (U+215E): X=1361.0,Y=1709.0 (should be at cap-height 1708?) 
 
-	* And seveneighths (U+215E): X=1935.5,Y=-2.0 (should be at baseline 0?) [code: found-misalignments]
+	* And seveneighths (U+215E): X=1916.5,Y=-2.0 (should be at baseline 0?) [code: found-misalignments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
