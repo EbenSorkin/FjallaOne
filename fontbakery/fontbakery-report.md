@@ -2,13 +2,7 @@
 
 Fontbakery version: 0.8.10
 
-<details><summary><b>[12] FjallaOne-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Copyright 2023 The FjallaOne Project Authors https://github.com/EbenSorkin/FjallaOne" [code: bad-notice-format]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+<details><summary><b>[11] FjallaOne-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
@@ -513,7 +507,7 @@ The following glyphs do not have the recommended number of contours:
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 1 | 11 | 109 | 7 | 99 | 0 |
+| 0 | 0 | 11 | 109 | 7 | 100 | 0 |
 | 0% | 0% | 5% | 48% | 3% | 44% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
