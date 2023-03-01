@@ -59953,7 +59953,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The FjallaOne Project Authors https://github.com/EbenSorkin/FjallaOne";
+value = "Copyright 2019 The Familyname Project Authors (git url)";
 }
 );
 },
